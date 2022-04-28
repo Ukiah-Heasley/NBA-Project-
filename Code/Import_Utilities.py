@@ -9,3 +9,4 @@ import os
 import altair as alt
 from vega_datasets import data
 import matplotlib.pyplot as plt
+pd.set_option('display.max_columns', None)
